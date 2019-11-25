@@ -1,6 +1,6 @@
-# EFS-CF
+# ESFS-CF
 
-## EFS-CF  is a tracker based on correlation filters for UAV tracking which can run 10fps on CPU.
+## ESFS-CF  is a tracker based on correlation filters for UAV tracking which can run 10fps on CPU.
 
 Our algorithm will be open sourced in April 2020, and you can now download our encryption algorithms and results and test them on relevant data sets. Note that due to different operating environments, some algorithms may be inconsistent with the original results of the papers. Our own algorithms and other algorithms are re-tested on the same platform with ubuntu16.04, matlab2017b, matconvnet-1.0-beta25, opencv2.4.13,  GPU：NVIDIA-1080.
 
