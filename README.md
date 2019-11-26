@@ -43,10 +43,10 @@ Our algorithm will be open source in April 2020， and you can now download our 
 ![image](https://github.com/xiaogeaihighying/ESFS-CF/blob/master/picture/UAV123.png)
 
 
-| UAV20L  | OURS | LADCF | STRCF | ECO_HC | ARCF | AMCF | BACF | SRDCF | DSST | SAMF | KCF  |
-| ------  | ---- | ----- | ----- | ------ | ---- | ---- | ---- | ----- | ---- | ---- | ---- |
-| S*1000  | 438  | 445   | 416   | 419    | 396  | 344  | 419  | 426   | 339  | 329  | 265  |
-| P*1000  | 587  | 593   | 560   | 547    | 559  | 491  | 583  | 579   | 469  | 455  | 406  |
+| UAV20L | OURS | LADCF | STRCF | ECO_HC | ARCF | AMCF | BACF | SRDCF | DSST | SAMF | KCF  |
+| ------ | ---- | ----- | ----- | ------ | ---- | ---- | ---- | ----- | ---- | ---- | ---- |
+| S*1000 | 438  | 445   | 416   | 419    | 396  | 344  | 397  | 343   | 270  | 317  | 196  |
+| P*1000 | 587  | 593   | 560   | 547    | 559  | 491  | 554  | 507   | 459  | 457  | 311  |
 
 ![image](https://github.com/xiaogeaihighying/ESFS-CF/blob/master/picture/UAV20L.png)
 
