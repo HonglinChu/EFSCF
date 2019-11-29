@@ -6,13 +6,13 @@ Our algorithm will be open source in April 2020， and you can now download our 
 
 ## We have tested our algorithm on UAV123，UAV20L, UAVDT，DTB70，Visdrone2019, OTB2015,OTB2013,OTB50 datasets and have achieved good performance compared to other algorithms.
 
-<div style="align: center">
-<img src="https://github.com/xiaogeaihighying/ESFS-CF/blob/master/picture/1.gif" width = "300" height = "150"  />
+<div align=center>
+![](https://github.com/xiaogeaihighying/ESFS-CF/blob/master/picture/1.gif)
+</div>
+<div align=center>
+![](https://github.com/xiaogeaihighying/ESFS-CF/blob/master/picture/2.gif)
 </div>
 
-<div style="align: center">
-<img src="https://github.com/xiaogeaihighying/ESFS-CF/blob/master/picture/2.gif" width = "300" height = "150"  />
- </div>
 
 | OTB50   | OURS | LADCF | STRCF | ECO_HC | ARCF | AMCF | BACF | SRDCF | DSST | SAMF | KCF  |
 | ------- | ---- | ----- | ----- | ------ | ---- | ---- | ---- | ----- | ---- | ---- | ---- |
