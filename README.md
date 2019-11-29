@@ -8,6 +8,7 @@ Our algorithm will be open source in April 2020， and you can now download our 
 
 
 <img src="https://github.com/xiaogeaihighying/ESFS-CF/blob/master/picture/1.gif" width = "300" height = "150"  />
+<img src="https://github.com/xiaogeaihighying/ESFS-CF/blob/master/picture/2.gif" width = "300" height = "150"  />
 
 | OTB50   | OURS | LADCF | STRCF | ECO_HC | ARCF | AMCF | BACF | SRDCF | DSST | SAMF | KCF  |
 | ------- | ---- | ----- | ----- | ------ | ---- | ---- | ---- | ----- | ---- | ---- | ---- |
