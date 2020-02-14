@@ -1,5 +1,5 @@
-##EFSCF
-```bash
+## EFSCF
+
 EFSCF is a tracker based on correlation filters for UAV tracking which can run 18.5fps on CPU.
 
 Our algorithm will be open source in April 2020， and you can now download our results and test them on relevant data sets. Note that 
@@ -7,13 +7,13 @@ Our algorithm will be open source in April 2020， and you can now download our 
 due to different operating environments, some algorithms may be inconsistent with the original results of the papers. Our own algorithms 
 
 and other algorithms are re-tested on the same platform with ubuntu16.04,matlab2017b,matconvnet-1.0-beta25,opencv2.4.13,GPU:NVIDIA-1080.
-```
+
 ## Benchmark results
-```bash
+
 We have tested our algorithm on UAV123，UAV20L, UAVDT，DTB70，Visdrone2019, OTB2015,OTB2013,OTB50 datasets and have achieved good 
 
 performance compared to other algorithms.
-```
+
 
 ```bash
 | OTB50   | OURS | LADCF | STRCF | ECO_HC | ARCF | AMCF | BACF | SRDCF | DSST | SAMF | KCF  |
@@ -72,7 +72,7 @@ performance compared to other algorithms.
 ```
 
 ## Reference
-```bash
+
 [1] Li, Feng, et al. "Learning spatial-temporal regularized correlation filters for visual tracking." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
 
 [2] Xu, Tianyang, et al. "Learning adaptive discriminative correlation filters via temporal consistency preserving spatial feature selection for robust visual object tracking." IEEE Transactions on Image Processing 28.11 (2019): 5596-5609.
@@ -80,4 +80,4 @@ performance compared to other algorithms.
 [3] Xu, Tianyang, et al. "Joint group feature selection and discriminative filter learning for robust visual object tracking." Proceedings of the IEEE International Conference on Computer Vision. 2019.
 
 [4] Huang, Ziyuan, et al. "Learning aberrance repressed correlation filters for real-time uav tracking." Proceedings of the IEEE International Conference on Computer Vision. 2019.
-```
+
