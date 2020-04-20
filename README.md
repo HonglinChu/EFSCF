@@ -1,6 +1,6 @@
 ## EFSCF
 
-EFSCF is a tracker based on correlation filters for UAV tracking which can run 18.5fps on CPU. Our algorithm will be open source in April 2020， and you can now download our results and test them on relevant data sets. Note that due to different operating environment, some algorithms may be inconsistent with the original results of the papers. Our own algorithms and other algorithms are re-tested on the same platform with ubuntu16.04,matlab2017b,matconvnet-1.0-beta25,opencv2.4.13,GPU:NVIDIA-1080.
+EFSCF is a tracker based on correlation filters for UAV tracking which can run 18.5fps on CPU. Our algorithm will open in April 2020， and you can now download our results and test them on relevant data sets. Note that due to different operating environment, some algorithms may be inconsistent with the original results of the papers. Our own algorithms and other algorithms are re-tested on the same platform with ubuntu16.04,matlab2017b,matconvnet-1.0-beta25,opencv2.4.13,GPU:NVIDIA-1080.
 
 ## Benchmark results
 
