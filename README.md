@@ -1,6 +1,6 @@
 ## EFSCF
 
-EFSCF is a tracker based on correlation filters for UAV tracking which can run 18.5fps on CPU. Our algorithm will open in April 2020， and you can now download our results and test them on relevant data sets. Note that due to different operating environment, some algorithms may be inconsistent with the original results of the papers. Our own algorithms and other algorithms are re-tested on the same platform with ubuntu16.04,matlab2017b,matconvnet-1.0-beta25,opencv2.4.13,GPU:NVIDIA-1080.
+EFSCF is a tracker based on correlation filters for UAV tracking which can run 18.5fps on CPU. Our algorithm will open in  2020， and you can now download our results and test them on relevant data sets. Note that due to different operating environment, some algorithms may be inconsistent with the original results of the papers. Our own algorithms and other algorithms are re-tested on the same platform with ubuntu16.04,matlab2017b,matconvnet-1.0-beta25,opencv2.4.13,GPU:NVIDIA-1080.
 
 ## Benchmark results
 
@@ -9,8 +9,8 @@ We have tested our algorithm on UAV123，UAV20L, UAVDT，DTB70，Visdrone2019, O
 ```bash
 | OTB50   | OURS | LADCF | STRCF | ECO_HC | ARCF | AMCF | BACF | SRDCF | DSST | SAMF | KCF  |
 | ------- | ---- | ----- | ----- | ------ | ---- | ---- | ---- | ----- | ---- | ---- | ---- |
-| S*1000  | 618  | 599   | 613   | 609    | 565  | 527  | 570  | 527   | 459  | 472  | 403  |
-| P*1000  | 824  | 801   | 827   | 830    | 775  | 709  | 768  | 704   | 620  | 656  | 611  |
+| S*1000  | **618  | 599   | 613   | 609    | 565  | 527  | 570  | 527   | 459  | 472  | 403  |
+| P*1000  | **824  | 801   | 827   | 830    | 775  | 709  | 768  | 704   | 620  | 656  | 611  |
 ```
 
 ```bash
