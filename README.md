@@ -80,4 +80,4 @@ We have tested our algorithm on UAV123，UAV20L, UAVDT，Visdrone2019, OTB2015,O
 
 
 # Acknowledgements
-We thank the contribution of ARCF,STRCF,LADCF, GFSDCF,and ECO. Some of the parameter settings and functions are borrowed from ECO (https://github.com/martin-danelljan/ECO), STRCF (https://github.com/lifeng9472/STRCF) ,LADCF (https://github.com/XU-TIANYANG/LADCF).
+We thank the contribution of ARCF,STRCF,LADCF, GFSDCF,and ECO. Some of the parameter settings and functions are borrowed from STRCF (https://github.com/lifeng9472/STRCF) ,LADCF (https://github.com/XU-TIANYANG/LADCF).
