@@ -66,7 +66,7 @@ We have tested our algorithm on UAV123，UAV20L, UAVDT，Visdrone2019, OTB2015,O
 ![image](https://github.com/HonglinChu/EFSCF/blob/master/results/VisDrone/quality_plot_error_OPE_threshold.png)
 ![image](https://github.com/HonglinChu/EFSCF/blob/master/results/VisDrone/quality_plot_overlap_OPE_AUC.png)
 
-## Reference
+# Reference
 
 
 [1] Li, Feng et al. "Learning spatial-temporal regularized correlation filters for visual tracking."Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 4904-4913.
@@ -77,3 +77,5 @@ We have tested our algorithm on UAV123，UAV20L, UAVDT，Visdrone2019, OTB2015,O
 
 [4] Xu, Tianyang, et al. "Joint group feature selection and discriminative filter learning for robust visual object tracking." Proceedings of the IEEE International Conference on Computer Vision. 2019.
 
+# 
+We thank the contribution of ARCF,STRCF,LADCF and ECO. Some of the parameter settings and functions are borrowed from (https://github.com/martin-danelljan/ECO),STRCF tracker (https://github.com/lifeng9472/STRCF) and  LADCF (www.hamedkiani.com/bacf.html), ARCF
