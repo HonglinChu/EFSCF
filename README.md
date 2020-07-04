@@ -77,5 +77,8 @@ We have tested our algorithm on UAV123，UAV20L, UAVDT，Visdrone2019, OTB2015,O
 
 [4] Xu, Tianyang, et al. "Joint group feature selection and discriminative filter learning for robust visual object tracking." Proceedings of the IEEE International Conference on Computer Vision. 2019.
 
+[5] Danelljan M, Bhat G, Khan F S, et al. ECO: Efficient Convolution Operators for Tracking.Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.2017: 6931-6939.
+
+
 # Acknowledgements
 We thank the contribution of ARCF,STRCF,LADCF, GFSDCF,and ECO. Some of the parameter settings and functions are borrowed from ECO (https://github.com/martin-danelljan/ECO), STRCF (https://github.com/lifeng9472/STRCF) ,LADCF (https://github.com/XU-TIANYANG/LADCF).
