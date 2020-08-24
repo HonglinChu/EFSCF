@@ -50,20 +50,20 @@ We have tested our algorithm on UAV123，UAV20L, UAVDT，Visdrone2019, OTB2015,O
 ```
 # Success and Precision Plots
 ## UAV123
-![image](https://github.com/HonglinChu/EFSCF/blob/master/results/UAV123/quality_plot_error_OPE_threshold.png)
-![image](https://github.com/HonglinChu/EFSCF/blob/master/results/UAV123/quality_plot_overlap_OPE_AUC.png)
+![image](./results/UAV123/quality_plot_error_OPE_threshold.png)
+![image](./results/UAV123/quality_plot_overlap_OPE_AUC.png)
 
 ## UAV20L
-![image](https://github.com/HonglinChu/EFSCF/blob/master/results/UAV20L/quality_plot_error_OPE_threshold.png)
-![image](https://github.com/HonglinChu/EFSCF/blob/master/results/UAV20L/quality_plot_overlap_OPE_AUC.png)
+![image](./results/UAV20L/quality_plot_error_OPE_threshold.png)
+![image](./results/UAV20L/quality_plot_overlap_OPE_AUC.png)
 
 ## UAVDT
-![image](https://github.com/HonglinChu/EFSCF/blob/master/results/UAVDT/quality_plot_error_OPE_threshold.png)
-![image](https://github.com/HonglinChu/EFSCF/blob/master/results/UAVDT/quality_plot_overlap_OPE_AUC.png)
+![image](./results/UAVDT/quality_plot_error_OPE_threshold.png)
+![image](./results/UAVDT/quality_plot_overlap_OPE_AUC.png)
 
 ## VisDrone2019-SOT-Train
-![image](https://github.com/HonglinChu/EFSCF/blob/master/results/VisDrone/quality_plot_error_OPE_threshold.png)
-![image](https://github.com/HonglinChu/EFSCF/blob/master/results/VisDrone/quality_plot_overlap_OPE_AUC.png)
+![image](./results/VisDrone/quality_plot_error_OPE_threshold.png)
+![image](./results/VisDrone/quality_plot_overlap_OPE_AUC.png)
 
 # Reference
 
