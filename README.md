@@ -1,9 +1,13 @@
 # Enhanced Robust Spatial Feature Selection and Correlation Filter Learning for UAV Tracking
 Our paper is under review in  IEEE Transactions on Circuits and Systems for Video Technology. EFSCF is a tracker based on correlation filter for UAV tracking which can run at ~18fps on a single CPU. Our algorithm will open in  2020. Note that due to different configuration environment, some algorithms may be inconsistent with the original results of the papers. For fair comparison, all  trackers are retested on the same platform with ubuntu16.04,matlab2017b,matconvnet-1.0-beta25,opencv2.4.13,GPU NVIDIA-1080.
 
+# Download
+
+[models](https://pan.baidu.com/s/15AsfSXGOmUH8QhbZBuYZtg) password: nj4b
+
 # Results
 
-We have tested our algorithm on UAV123，UAV20L, UAVDT，Visdrone2019, OTB2015,OTB2013 datasets and have achieved good performance compared to other algorithms.
+We have tested our algorithm on UAV123，UAV20L, UAVDT, Visdrone2019, OTB2015, OTB2013 datasets and have achieved good performance compared to other algorithms.
 
 2020-06
 
