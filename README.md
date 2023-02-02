@@ -1,6 +1,8 @@
 # EFSCF
 “Enhanced Robust Spatial Feature Selection and Correlation Filter Learning for UAV Tracking”, Neural Networks,2022. 
 
+https://www.sciencedirect.com/science/article/pii/S0893608023000035
+
 EFSCF is a tracker based on correlation filter for UAV tracking which can run at ~18fps on a single CPU. Note that due to different configuration environment, some algorithms may be inconsistent with the original results of the their papers. For fair comparison, all trackers run on the same platform with ubuntu16.04,matlab2017b,matconvnet-1.0-beta25,opencv2.4.13,GPU NVIDIA-1080.
 
 # Download
@@ -75,17 +77,7 @@ We have tested our algorithm on UAV123，UAV20L, UAVDT, Visdrone2019, OTB2015, O
 
 # Reference
 
-
-[1] Li, Feng et al. "Learning spatial-temporal regularized correlation filters for visual tracking."Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 4904-4913.
-
-[2] Xu, Tianyang, et al. "Learning adaptive discriminative correlation filters via temporal consistency preserving spatial feature selection for robust visual object tracking." IEEE Transactions on Image Processing 28.11 (2019): 5596-5609.
-
-[3] Huang, Ziyuan, et al. "Learning aberrance repressed correlation filters for real-time uav tracking." Proceedings of the IEEE International Conference on Computer Vision. 2019.
-
-[4] Xu, Tianyang, et al. "Joint group feature selection and discriminative filter learning for robust visual object tracking." Proceedings of the IEEE International Conference on Computer Vision. 2019.
-
-[5] Danelljan M, Bhat G, Khan F S, et al. ECO: Efficient Convolution Operators for Tracking.Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.2017: 6931-6939.
-
+Wen J, Chu H, Lai Z, et al. Enhanced robust spatial feature selection and correlation filter learning for UAV tracking[J]. Neural Networks, 2023.
 
 # Acknowledgements
 We thank the contribution of ARCF,STRCF,LADCF, GFSDCF,and ECO. Some of the parameter settings and functions are borrowed from STRCF (https://github.com/lifeng9472/STRCF) ,LADCF (https://github.com/XU-TIANYANG/LADCF).
